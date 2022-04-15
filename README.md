@@ -11,4 +11,5 @@ A python script combined with a little bit of batch to steal someone's data in P
 
 
 
-Note: The .exe is only the converted Python script, but I wanted to put the Python in here aswell for improvement suggestions
+Note: The .exe is only the converted Python script, but I wanted to put the Python in here aswell for improvement suggestions <br>
+      It mostly works on Windows only but I'll try to give it a bigger compability.
