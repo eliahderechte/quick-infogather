@@ -10,10 +10,13 @@ A python script combined with a little bit of batch to steal someone's data in P
 <br>
 ## Installation <br>
 ```
-git clone https://https://github.com/eliahderechte/quick-infogather.git
-cd quick-infogather.git
+git clone https://https://github.com/eliahderechte/quick-infogather.git 
 ```
-and run the .exe or the Python if you wish to. <br>
+```
+cd quick-infogather
+```
+
+<br> and run the .exe or the Python if you wish to. <br>
 <br>
 <br>
 <br>
