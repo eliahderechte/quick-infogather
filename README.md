@@ -12,6 +12,7 @@ A python script combined with a little bit of batch to steal someone's data in P
 ```
 git clone https://https://github.com/eliahderechte/quick-infogather.git 
 ```
+<br>
 ```
 cd quick-infogather
 ```
