@@ -8,6 +8,7 @@ A python script combined with a little bit of batch to gather someone's data in 
 - When it's done it'll automatically create a "dataoutput.txt" on the device you are using where all the data is stored. <br>
 - I couldn't really find a way of formatting it prettily.
 <br>
+
 ## Installation <br>
 
 ```
