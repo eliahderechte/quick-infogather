@@ -1,5 +1,5 @@
 # quick-infogather
-A python script combined with a little bit of batch to steal someone's data in Person pretty quickly
+A python script combined with a little bit of batch to gather someone's data in Person pretty quickly
 
 ## Usage <br>
 - Just double click on/run the quick-pcinfogather.exe. <br>
